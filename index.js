@@ -1,0 +1,1 @@
+console.log("this is right way i will go there")
